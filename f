@@ -1,0 +1,1 @@
+{'kwargs': {}, 'max_hp': 0, 'hp': 0, 'max_ap': 0, 'ap': 0, 'max_mp': 0, 'mp': 0, 'attack_power': 0, 'crit_attac_mult': 0, 'attack_p': 0, 'move_p': 0, 'change_p': 0, 'item_use_p': 0, 'attac_c': 0, 'crit_attac_c': 0, 'block_c': 0, 'attac_effects': [], 'my_effects': []}
